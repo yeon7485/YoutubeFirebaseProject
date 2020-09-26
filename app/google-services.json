@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "610891026072",
+    "firebase_url": "https://fir-project-435d3.firebaseio.com",
+    "project_id": "fir-project-435d3",
+    "storage_bucket": "fir-project-435d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610891026072:android:68df4a8228dcfaf67bcaed",
+        "android_client_info": {
+          "package_name": "com.kplo.youtubefirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610891026072-3pcphosjl9b8okepr7klek1uqivm4uel.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kplo.youtubefirebaseproject",
+            "certificate_hash": "1c51c8fb0923fa3d90322ee10ffa0801ac3a503b"
+          }
+        },
+        {
+          "client_id": "610891026072-93cp03o74pcr7j60jbtsa2i1oa5naupi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf0TOQ0ZNmv6qUQwZHbxnKB7aOqooqcFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610891026072-93cp03o74pcr7j60jbtsa2i1oa5naupi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
